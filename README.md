@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # carrito_compras
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ProyectosOrder
+>>>>>>> 1a281025c2436c7a10067e1553cdfb4e8cfe509e
